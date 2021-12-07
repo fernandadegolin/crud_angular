@@ -1,0 +1,15 @@
+.container {
+  .sidenav {
+    background-color: var(--nav);
+    width: 10vw;
+
+    a {
+      font-size: smaller;
+      color: var(--main-color);
+    }
+
+    i {
+      padding-right: 10px;
+    }
+  }
+}

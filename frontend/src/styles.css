@@ -8,6 +8,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     --primary: #176268;
     --secondary: #37AD8E;
     --gray: #adbbb7;
+    --nav: #F5F5F5
   }
 
 .main-color{
