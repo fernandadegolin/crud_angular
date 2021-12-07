@@ -3,6 +3,12 @@
     background-color: var(--nav);
     width: 10vw;
 
+    @media screen and (max-width: 980px) {
+    top: 56px!important;
+    width: 36%;
+    height: auto;
+    }
+
     a {
       font-size: smaller;
       color: var(--main-color);
